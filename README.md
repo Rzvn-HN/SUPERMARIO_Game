@@ -51,9 +51,3 @@ SUPERMARIO_Game/
 A **learning project** for aspiring game developers.
 All Mario assets belong to Nintendo; this is for educational use only.
 
----
-
-## 🤝 Contributing
-
-Fork, improve, and submit a PR — add levels, enhance visuals, or fix bugs!
-
