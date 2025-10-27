@@ -34,16 +34,6 @@ Guide Mario through obstacles, collect coins, and dodge enemies — all built in
 
 
 
-## 🗂 Structure
-
-```
-SUPERMARIO_Game/
-│── src/        # Code  
-│── assets/     # Sprites & sounds  
-│── Main.java   # Entry point  
-```
-
-
 
 
 ## 🌱 About
