@@ -3,7 +3,6 @@
 A fan-made **2D platformer** inspired by the classic Nintendo adventure!
 Guide Mario through obstacles, collect coins, and dodge enemies — all built in **Java** for fun and learning.
 
----
 
 ## ✨ Features
 
@@ -11,7 +10,7 @@ Guide Mario through obstacles, collect coins, and dodge enemies — all built in
 * Enemies, obstacles, and collectibles
 * Simple, beginner-friendly codebase
 
----
+
 
 ## 🚀 Getting Started
 
@@ -25,7 +24,7 @@ Guide Mario through obstacles, collect coins, and dodge enemies — all built in
    java Main
    ```
 
----
+
 
 ## 🎮 Controls
 
@@ -33,7 +32,7 @@ Guide Mario through obstacles, collect coins, and dodge enemies — all built in
 * ⬆️ Jump
 * ESC Quit
 
----
+
 
 ## 🗂 Structure
 
@@ -44,7 +43,8 @@ SUPERMARIO_Game/
 │── Main.java   # Entry point  
 ```
 
----
+
+
 
 ## 🌱 About
 
