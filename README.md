@@ -2,7 +2,7 @@
 
 A fan-made 2D platformer inspired by the classic Nintendo adventure, built entirely in Java with custom game mechanics and level editing tools.
 
----
+
 
 ##  Features
 - **Classic Gameplay:** Smooth platforming, physics, collectibles, and enemy encounters.
