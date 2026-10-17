@@ -1,43 +1,33 @@
-# Super Mario Game 🍄🎮
+# Super Mario Game 🍄
 
-A fan-made **2D platformer** inspired by the classic Nintendo adventure!
-Guide Mario through obstacles, collect coins, and dodge enemies — all built in **Java** for fun and learning.
+A fan-made 2D platformer inspired by the classic Nintendo adventure, built entirely in Java with custom game mechanics and level editing tools.
 
+---
 
-## ✨ Features
-
-* Classic Mario-style movement and gameplay
-* Enemies, obstacles, and collectibles
-* Simple, beginner-friendly codebase
-
-
-
-## 🚀 Getting Started
-
-**Requirements:** Java 8+
-
-1. Clone the repo
-2. Compile and run:
-
-   ```bash
-   javac Main.java
-   java Main
-   ```
+##  Features
+- **Classic Gameplay:** Smooth platforming, physics, collectibles, and enemy encounters.
+- **Built-in Level Editor:** Create and test custom levels, enemy spawns, and tile placements.
+- **Dynamic Managers:** Centralized camera handling, audio engine, and input management.
+- **JSON Level Loading:** Levels and configs saved via structured JSON data.
 
 
-
-## 🎮 Controls
-
-* ⬅️ / ➡️ Move
-* ⬆️ Jump
-* ESC Quit
+##  Controls
+- **Arrow Keys (Left / Right):** Move Mario
+- **Up Arrow / Space:** Jump
+- **ESC:** Pause / Main Menu
 
 
+##  Tech Stack
+- **Language:** Java 8+
+- **Paradigm:** Object-Oriented Programming (OOP)
+- **Data Format:** JSON
 
 
+##  Known Issues & Roadmap
+- [ ] **Level 3:** Currently contains minor bugs during gameplay; fix in progress.
+- [ ] Performance optimizations for larger custom maps.
 
-## 🌱 About
+---
 
-A **learning project** for aspiring game developers.
-All Mario assets belong to Nintendo; this is for educational use only.
-
+##  Disclaimer
+All Mario assets, sounds, and characters belong to **Nintendo**. This project is strictly for **educational and learning purposes**.
